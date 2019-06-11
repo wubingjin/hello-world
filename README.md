@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+Hi Wubingjin!
+
+Bianzi here, I like Node.js and live you!
